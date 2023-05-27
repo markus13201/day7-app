@@ -11,12 +11,12 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en" className={inter.className}>
       <body>
-      <Providers>
-        <Nav />
-         {children}
-        <Footer />
-      </Providers>
-      </body>
+       <Providers>
+          <Nav />
+           {children}
+         <Footer />
+        </Providers>
+       </body>
     </html>
   );
 }
