@@ -1,0 +1,38 @@
+
+- create a custom theme 
+
+design and build custom components
+
+
+services 
+Navbar (small service card + icon links with heading, subtext description & icon)
+Page ()
+
+
+
+PAGE CONTENT
+|___/Hero
+    {
+        
+    }
+
+
+|
+|___/Social Proof
+|
+|___/USPs (top 1%, 43.5% funding, AI, 100% Australian)
+|
+|___/Services 
+|   |____/Mobile Apps
+|   |____/Web Apps
+|   |____/AI Integrations
+|
+|___/About
+|   |___/Mission
+|   |___/2030 Initiative
+|
+|___/Statistics
+|___/Funding CTA
+|___/7 Step Process
+|___/Final CTA
+|___/Footer
